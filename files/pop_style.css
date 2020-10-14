@@ -1,0 +1,67 @@
+/*
+
+ Some styles used by the "Cascading Popup Menus" script.
+ Consult a CSS reference (a good one is www.ncdesign.org) for syntax and tweaking ideas.
+ You can delete the ones you're not using in your ItemStyles, or add more if you want.
+
+*/
+
+
+/*
+ Font settings -- change your font, colour, alignment etc.
+ Insert 'font-weight: bold;' or 'font-style: italic;' without quotes if you want.
+*/
+.lowText
+{
+	font: bold 9px Verdana;
+/*	color: #003366;*/
+color:#33557b;
+	text-align: center;
+	text-decoration: none;
+}
+.highText
+{
+	font: bold 9px Verdana;
+	color: #ffffff;
+	text-align: center;
+	text-decoration: none;
+}
+
+.lowTextSub
+{
+	font: bold 9px Verdana;
+	color: #ffffff;
+	text-align: center;
+	text-decoration: none;
+}
+.highTextSub
+{
+	font: bold 9px Verdana;
+	color: #003366;
+	text-align: center;
+	text-decoration: none;
+}
+/* Borders used by some items */
+.itemBorder { border: 1px solid #D2D5DB}
+.itemBorderBlank { border: 1px solid #CCCCDD }
+
+/* The "button" demo menu styles, as used by the "File-Reopen" menu */
+.buttonText
+{
+	font: bold 10px Verdana;
+	color: #ffcc99;
+	text-decoration: none;
+}
+.buttonHover
+{
+	padding-right: 1px;
+	padding-left: 1px;
+	padding-bottom: 1px;
+	font: bold 10px Verdana;
+	color: #99ccff;
+	padding-top: 1px;
+	text-decoration: none;
+}
+.buttonBorder { border: 1px outset #339966 }
+.buttonBorderOver { border: 1px inset #CC9966 }
+

@@ -1,0 +1,1011 @@
+.CommodityHeaderGrid
+{
+	border-bottom: gainsboro thin solid;
+}
+
+.CommodityItemGrid
+{
+	border-bottom: whitesmoke 1px solid;
+}
+
+.SearchTextBox
+{
+	background-image: url(search_bg_eng.jpg);
+}
+
+/*site map */
+.bullet {
+	FONT-SIZE: 3pt; PADDING-BOTTOM: 0pt; COLOR: #33557b; PADDING-TOP: 0pt; FONT-FAMILY: Webdings
+}
+.SitmapLabel {
+	FONT-WEIGHT: bold; COLOR: #FFFFFF; FONT-SIZE: 8pt; LINE-HEIGHT: 140%; FONT-FAMILY: Verdana; FONT-VARIANT: normal
+}
+.SitmapLabel1 {
+	FONT-WEIGHT: bold; COLOR: #33557b; FONT-SIZE: 10px; LINE-HEIGHT: 140%; FONT-FAMILY: Verdana; FONT-VARIANT: normal
+}
+TABLE.subbullets {
+	MARGIN-TOP: 3px
+}
+.subbullet {
+	PADDING-RIGHT: 4pt; PADDING-LEFT: 4pt; FONT-SIZE: 6pt; PADDING-BOTTOM: 0pt; COLOR: #a6a6a6; PADDING-TOP: 0pt; FONT-FAMILY: Verdana
+}
+/* sitemap */
+.AbstractReportTitleClass
+{
+	margin-top: 3px;
+	font-weight: bold;
+	font-size: 13pt;
+	margin-bottom: 3px;
+	padding-bottom: 3px;
+	color: #006633;
+	padding-top: 3px;
+	font-style: italic;
+	font-family: 'Times New Roman';
+	background-color: whitesmoke;
+
+}
+
+.AbstractReportClass
+{
+	font-size: 12pt;
+	color: black;
+	font-family: verdana;
+}
+.Padd
+{
+	padding-left:22;
+	text-align:justify;
+}
+
+.BorderTable
+{
+	border-right: black 1px solid;
+	border-top: black 1px solid;
+	border-left: black 1px solid;
+	border-bottom: black 1px solid;
+	text-align:center;
+	vertical-align:middle;
+	font-size:x-small;
+}
+.SiteMapTitle
+{
+	font-family:Arial;
+	font-size:16pt;
+	font-weight:normal;
+}
+/*
+.bullet
+{
+	padding-right: 3pt;
+	padding-left: 3pt;
+	padding-bottom: 0pt;
+	font-family: Verdana;
+	font-size: 8pt;
+	color: #a6a6a6;
+	padding-top: 0pt;
+	font-weight:bold;
+}
+TABLE.subbullets {
+	MARGIN-TOP: 3;
+}
+
+
+.subbullet
+{
+	padding-right: 4pt;
+	padding-left: 4pt;
+	padding-bottom: 0pt;
+
+	font-family: Verdana;
+	font-size: 6pt;
+	color: #a6a6a6;
+	padding-top: 0pt;
+}*/
+
+P.blurb
+{
+	margin: 0em;
+	font: 70%/140% Verdana;
+}
+
+TD.sublink
+{
+	padding-bottom: 3;
+	font: 70%/140% Verdana;
+}
+.SitmapLabel
+{
+	font-weight: bold;
+	font-size: 8pt;
+	line-height: 140%;
+	font-family: Verdana;
+	font-variant: normal;
+}
+
+.partition {
+	padding-bottom: 12;
+}
+.headline {
+	margin-top: 12;
+}
+
+.BorderTable
+{
+	border-right: black 1px solid;
+	border-top: black 1px solid;
+	border-left: black 1px solid;
+	border-bottom: black 1px solid;
+	text-align:center;
+	vertical-align:middle;
+	font-size:x-small;
+}
+
+.FundHeaderClass
+{
+	font-weight: bold;
+	color: white;
+	font-family: Verdana;
+	background-color: #36537f;
+}
+.FundCatClass
+{
+	font-weight: bold;
+	font-family: Verdana;
+	background-color: #e1e8f0;
+}
+.FundClass1
+{
+	font-weight: bold;
+	font-size: xx-small;
+	color: black;
+	font-family: Verdana;
+	background-color: #E8F0F5;
+}
+.FundClass0
+{
+	font-weight: bold;
+	font-size: xx-small;
+	color: black;
+	font-family: Verdana;
+	background-color: whitesmoke;
+}
+.dt {padding: 1px 4px 2px 1px; width: 100%; color: #fff; background-position: top; background-repeat: repeat-x; filter: none;  }
+.TabsBorders
+{
+	border-right: #4b74b2 1px solid;
+	border-top: #4b74b2 1px solid;
+	border-bottom: #4b74b2 1px solid;
+}
+.Bottom{border-bottom: #829ec5 2px solid;}
+.UpRight{border-top: #829ec5 2px solid;	border-Right: #829ec5 1px solid;}
+.UpLeft{border-top: #829ec5 2px solid;border-Left: #829ec5 1px solid;}
+
+
+.Up{border-top: #829ec5 2px solid;}
+/*.Badge{border-top: #829ec5 2px solid;border-Left: #829ec5 2px solid; background-color:#e9ecf1 }*/
+.Badge{border-top: #829ec5 1px solid;border-bottom: #829ec5 1px solid; background-color:#e8f0f5; }
+.ABadge{border-top: #829ec5 1px solid;border-bottom: #829ec5 1px solid; background-color:#e9ecf1; }
+/*.RightBadge{border-top: #829ec5 2px solid;border-right: #829ec5 2px solid; background-color:#e9ecf1 }*/
+.RightBadge{border-top: #829ec5 1px solid; background-color:#e8f0f5}
+.Left2{	border-Right: #829ec5 1px solid;}
+.HDots{	background-image: url(Images/dots.gif);	background-repeat: repeat-x;}
+.Vdots
+{
+	font-size: xx-small;
+	background-image: url(vdots.gif);
+	background-repeat: repeat-y;
+}
+.LeftBorderThik{border-Left: #829ec5 2px solid;}
+.RightBorderThik{border-Right: #829ec5 2px solid;}
+
+
+.TableBorder{border-top-width: 1px;	border-right: #4975b2 0px solid;border-left: #4975b2 0px solid;border-top-color: #4975b2;border-bottom: #4975b2 0px solid;}
+
+/* Tabs Styles */
+.ActiveTabsBorder
+{
+	padding-right: 2px;
+	border-top: #4975b2 1px solid;
+	padding-left: 2px;
+	font-weight: bold;
+	font-size: 10pt;
+	padding-bottom: 2px;
+	border-left: #4975b2 1px solid;
+	padding-top: 1px;
+	font-family: Verdana;
+	background-color: #fafcfb;
+}
+
+.InActiveTabsBorder
+{	
+	padding: 2px;
+	font-size: 10pt;
+	font-weight: bold;
+	font-family: Verdana;
+	border-left: #4975b2 1px solid;
+	border-bottom: #829ec5 1px solid;
+	background-color: #e8f0f5;
+	border-top: #4975b2 1px solid;
+}
+.ActiveTabsBorderLast
+{
+	padding: 2px;
+	
+	border-top: #4975b2 1px solid;font-weight: bold;border-left: #4975b2 1px solid;border-Right: #4975b2 1px solid; background-color:#fafcfb}
+
+
+.InActiveTabsBorderLast
+{
+	padding: 2px;
+
+	border-top: #4975b2 1px solid;font-weight: bold;border-left: #4975b2 1px solid;border-bottom: #829ec5 1px solid;border-Right: #4975b2 1px solid; background-color:#e8f0f5}
+/* ----------------------------------------*/
+
+.UpWithGrad{border-top: #829ec5 2px solid;background-image: url(Images/grad.gif);background-repeat: repeat-y;}
+.Menu{font-size: x-small;color: #33547d;font-family: Arial;font-weight:bold;}
+.DropDown{left: 200px;color: #ff0066;position: absolute;top: 500px;	height: 250px;}
+
+.BlueText
+{
+	font-size: x-small;
+	color: #33557b;
+	font-family: Verdana;
+	background-color: transparent;
+	text-decoration: none;
+}
+.TitleBlueText
+{
+	font-weight: bold;
+	font-size: small;
+	color: #33557b;
+	font-family: Verdana;
+	background-color: transparent;
+	text-decoration: none;
+}
+.BoldBlueText
+{
+	font-weight: bold;
+	font-size: 8pt;
+	color: #33557b;
+	font-family: Verdana;
+	text-decoration: none;
+}
+
+.ErrorText
+{
+	font-size: x-small;
+	color: red;
+	font-family: Verdana;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+.BlockHeaderMiddle
+{
+	font-weight: bold;
+	font-size: xx-small;
+	color: white;
+	font-family: Verdana;
+	background-color: #0572a1;
+}
+
+.BlockHeaderLeftRight
+{
+	font-weight: bold;
+	font-size: 10px;
+	color: white;
+	font-family: Verdana;
+	background-color: #1881b6;
+}
+.simple
+{
+	font-weight: bold;
+	font-size: 10px;
+	color: #222222;
+	font-family: Verdana;
+	background-color: #efefef;
+}
+.simple_green
+{
+	font-weight: bold;
+	font-size: 10px;
+	color: #009900;
+	font-family: Verdana;
+	background-color: #efefef;
+}
+.simple_lg
+{
+	font-weight: bold;
+	font-size: 10px;
+	color: #003300;
+	font-family: Verdana;
+	background-color: #bbbbbb;
+}
+
+.RedText{font-family:Tahoma;font-size:x-small;color:Red;text-decoration: none;}
+.ClickableBlueText{font-size: xx-small;cursor: hand;color: #33557b;font-family: verdana;text-decoration: none;}
+.ClickableBlackText{font-size: xx-small;cursor: hand;color: Black;font-family: verdana;text-decoration: none;}
+
+.NormalBlackText
+{
+	font-size: 8pt;
+	color: black;
+	font-family: Verdana;
+}
+
+.HomeNewsTitle
+{
+	font-weight: bold;
+	font-size: 10pt;
+	color: dimgray;
+	font-family: Verdana;
+}
+
+.NewsBlueTitle
+{
+	font-weight: bold;
+	font-size: 10pt;
+	color: #33557b;
+	font-family: Verdana;
+}
+
+.NewsBlackText
+{
+	font-size: 10pt;
+	color: #333333;
+	line-height: 17px;
+	font-family: Verdana;
+}
+
+.HomeTableBorder
+{
+	border-right: #4975b2 1px solid;
+	border-left: #4975b2 1px solid;
+	border-top: #4975b2 1px solid;
+	border-bottom: #4975b2 3px solid;
+}
+
+
+/* title links */
+
+
+.NewsLink:link
+{
+	font-weight: bold;
+	font-size: 9pt;
+
+	color: #33557b;
+	font-family: Verdana;
+	text-decoration: none;
+}
+
+.NewsLink:visited
+{
+	font-weight: bold;
+	font-size: 9pt;
+
+	color: #33557b;
+	font-family: Verdana;
+	text-decoration: none;
+}
+.NewsLink:hover
+{
+	font-weight: bold;
+	font-size: 9pt;
+
+	color: #33557b;
+	font-family: Verdana;
+	text-decoration: underline;
+}
+/* end title link classes*/
+.GrayText
+{
+	font-size: 8pt;
+	color: gray;
+	font-family: Verdana;
+}
+.BlackText
+{
+	font-size: xx-small;
+	color: #333333;
+
+	font-family: Verdana;
+}
+
+.BlackText9
+{
+	font-size: 9pt;
+	color: black;
+	font-family: Verdana;
+}
+
+.BoldBlackText
+{
+	font-weight: bold;
+	font-size: xx-small;
+	color: black;
+	font-family: Verdana;
+}
+
+.TextEdit{	border-right: #819FC1 1px solid;	border-top: #819FC1 1px solid;	border-left: #819FC1 1px solid;	border-bottom: #819FC1 1px solid;	height: 17px;	width:100px;	font-family:Verdana;	font-size:xx-small;	background-color:#FFFFFF;}
+.LongTextEdit{	border-right: #819FC1 1px solid;	border-top: #819FC1 1px solid;	border-left: #819FC1 1px solid;	border-bottom: #819FC1 1px solid;	height: 17px;	width:150px;	font-family:Verdana;	font-size:xx-small;	background-color:#FFFFFF;}
+.ListBox{border-right: darkgray 1px solid;	border-top: darkgray 1px solid;	font-size: xx-small;	border-left: darkgray 1px solid;	width: 280px;	border-bottom: darkgray 1px solid;	font-family: Verdana;	height: 90px;	background-color: #eeeeee;}
+
+.MyListBox
+{
+	font-size: xx-small;
+	font-family: Verdana;
+	height: 90px;
+}
+/*
+.GrayButton1{border-right: #003366 1px solid;	border-top: #003366 1px solid;	font-size: 10pt;	border-left: #003366 1px solid;	cursor: hand;	color: #003366;	border-bottom: #003366 1px solid;	font-family: Tahoma;	background-color: #DDDDDD;	text-align: center;}	
+*/
+.GrayButton
+{
+	border-right: silver 1px outset;
+	border-top: #36537f 2px outset;
+	font-weight: bold;
+	font-size: xx-small;
+	border-left: silver 1px outset;
+	color: white;
+/*	color: #36537D;*/
+	border-bottom: silver 1px outset;
+	font-family: Verdana;
+	height: 22px;
+	background-color: #89a5c8;
+	/*background-color: #000040;*/
+}
+.ImageBtn
+{
+	cursor: hand;
+	border-top-style: none;
+	border-right-style: none;
+	border-left-style: none;
+	border-bottom-style: none;
+}
+.ReadOnlyTextBox
+{
+	border-top-style: none;
+	border-right-style: none;
+	border-left-style: none;
+	background-color: transparent;
+	border-bottom-style: none;
+}
+.DashedLine
+{
+	border-top: silver 1px;
+	border-top-style:dashed;
+	border-top-width:1px;
+}
+.MarketWatch
+{
+	border-top-width: 0px;	
+}
+
+.TableBorderMarket
+{
+	
+	border-right: #4975b2 1px solid;
+	border-top: 0px;
+	border-left: #4975b2 1px solid;
+	border-bottom: #4975b2 3px solid;
+}
+.TableBorderMarketFirst
+{
+	
+	border-right: #4975b2 1px solid;
+	border-top: 0px;
+	border-left: 2px outset;
+	border-bottom: #4975b2 3px solid;
+}
+.ActiveTabsBorderMarket
+{
+	border-right: #4975b2 1px solid;
+	padding-right: 2px;
+	border-top: 2px outset;
+	padding-left: 2px;
+	font-weight: bold;
+	font-size: 10pt;
+	padding-bottom: 2px;
+	border-left: 2px outset;
+	padding-top: 2px;
+	border-bottom: 2px;
+	font-family: Verdana;
+	background-color: #e8f0f5;
+}
+
+.InActiveTabsBorderMarket
+{	
+	background-color: #ffffff;	
+	
+	padding: 2px;
+	font-size: 10pt;
+	font-weight: bold;
+	font-family: Verdana;
+	border-left: #4975b2 1px solid;
+	border-right: #4975b2 1px solid;
+	border-bottom: #829ec5 1px solid;
+	
+	border-top: #4975b2 1px solid;
+}
+
+.ActiveTabsBorderLastMarket
+{
+	padding: 2px;
+	
+	border-top: #4975b2 1px solid;font-weight: bold;border-left: #4975b2 1px solid;border-Right: #4975b2 1px solid; background-color:#fafcfb}
+
+
+.InActiveTabsBorderLastMarket
+{
+	padding: 2px;
+
+	border-top: #4975b2 1px solid;font-weight: bold;border-left: #4975b2 1px solid;border-bottom: #829ec5 1px solid;border-Right: #4975b2 1px solid; background-color:#e8f0f5
+}
+
+.ItemGridStyleMarket
+{
+	font-size: x-small;
+	color: black;
+	font-family: Verdana;
+}
+/* for market watch hover titles */
+.GridHeaderStyleMarket
+{
+	font-weight: bold;
+	font-size: xx-small;
+	vertical-align: middle;
+	color: black;
+	font-family: Verdana;
+	background-color: #e8f0f5;
+	text-align: center;
+}
+.HeaderGridStyleMarket
+{
+	font-weight: bold;
+	font-size: xx-small;
+	color: black;
+	font-family: Verdana;
+	background-color: #e8f0f5;
+}
+.AlternatingItemGridStyleMarket
+{
+	font-size: x-small;
+	color: black;
+	font-family: Verdana;
+	background-color: #eeeeee;
+}
+
+.ItemGridStyle_nmk
+{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	color: black;
+	font-family: Verdana;
+	background-color: #e8f0f5;	
+	font-size: xx-small;
+}
+
+.HeaderGridStyle_nmk
+{
+	height:18px;
+	font-weight: bold;
+	font-size: xx-small;
+	color: black;
+	font-family: Verdana;
+	background-color: #CCD3D7;
+}
+
+.FooterGridStyle_nmk
+{
+	Color:"#C00000"; 
+	background-color:"#C00000";
+}
+
+.AlternatingItemGridStyle_nmk
+{	
+	font-size: xx-small;
+	color: black;
+	font-family: Verdana;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.SideGridStyle_nmk
+{
+	height:18px;
+	font-size: 9pt;
+	vertical-align: super;
+	color: #003366;
+	font-family: Verdana;
+	background-color: #EEEEEE;
+	text-align: center;
+}
+.SelectedItemGridStyle_nmk
+{
+	Color:"#C00000" ;
+	Background-Color:"Silver";
+	Font-Size:8pt ;
+	font-family:Tahoma; 
+}
+.PagerGridStyle_nmk
+{
+	font-size: xx-small;
+	color: black;
+	font-family: Verdana;
+	text-align: right;
+}
+
+.EditItemGridStyle_nmk
+{
+	padding-right: 10px;
+	padding-left: 10px;
+	font-size: 11px;
+	padding-bottom: 10px;
+	color: #003366;
+	padding-top: 10px;
+	font-family: Verdana;
+	background-color: #dddddd;
+}
+
+.ItemGridStyleIndices
+{
+	font-size: x-small;
+	color: black;
+	font-family: Verdana;
+	background-color: white;
+}
+.HeaderGridStyleIndices
+{
+	background-color: #1881b6;
+	font-weight: bold;
+	font-size: xx-small;
+	color: white;
+	font-family: Verdana;
+/*	background-color: #4975b2; */
+}
+.AlternatingItemGridStyleIndices
+{
+	font-size: x-small;
+	color: black;
+	font-family: Verdana;
+	background-color: white;
+}
+
+/* title links */
+.TitleLink:hover
+{
+	font-weight: bold;
+	font-size: 8pt;
+
+	color: #ff6600;
+	font-family: Verdana;
+	text-decoration: underline;
+}
+
+.TitleLink:link
+{
+	font-weight: bold;
+	font-size: 8pt;
+
+	color: #ff6600;
+	font-family: Verdana;
+	text-decoration: none;
+}
+
+.TitleLink:visited
+{
+	font-weight: bold;
+	font-size: 8pt;
+
+	color: #ff6600;
+	font-family: Verdana;
+	text-decoration: none;
+}
+/* end title link classes*/
+
+.QuickTipsLink:hover
+{
+	font-size: 8pt;
+	margin-left: 40px;
+	color: #62a7ee;
+	font-family: Verdana;
+	text-decoration: underline;
+}
+
+.QuickTipsLink:link
+{
+
+	font-size: 8pt;
+	margin-left: 40px;
+	color: #62a7ee;
+	font-family: Verdana;
+	text-decoration: none;
+}
+
+.QuickTipsLink:visited
+{
+
+	font-size: 8pt;
+	margin-left: 40px;
+	color: #62a7ee;
+	font-family: Verdana;
+	text-decoration: none;
+}
+
+.Q:link
+{
+	font-weight: bold;
+	font-size: xx-small;
+	color: #333333;
+	font-family: Verdana;
+	text-decoration: none;
+}
+
+.Q:visited
+{
+	font-weight: bold;
+	font-size: xx-small;
+	color: #333333;
+	font-family: Verdana;
+	text-decoration: none;
+}
+
+.Q:hover
+{
+	font-weight: bold;
+	font-size: xx-small;
+	color: #333333;
+	font-family: Verdana;
+	text-decoration: underline;
+}
+
+A:link
+{
+	font-weight: bold;
+	font-size: xx-small;
+	color: #33557b;
+	font-family: Verdana;
+	text-decoration: none;
+}
+
+A:visited
+{
+	font-weight: bold;
+	font-size: xx-small;
+	color: #33557b;
+	font-family: Verdana;
+	text-decoration: none;
+}
+
+A:hover
+{
+	font-weight: bold;
+	font-size: xx-small;
+	color: #33557b;
+	font-family: Verdana;
+	text-decoration: underline;
+}
+
+
+Body 
+{ 
+	SCROLLBAR-FACE-COLOR: #eff3f7; SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; SCROLLBAR-SHADOW-COLOR: #4a75b3; SCROLLBAR-3DLIGHT-COLOR: #4a75b3; SCROLLBAR-ARROW-COLOR: #6c95bf; SCROLLBAR-DARKSHADOW-COLOR: #eff3f7 
+}
+
+.AlternateCell
+{
+	background-color: #E8F0F5;
+	font-size: xx-small;
+	color: black;
+	font-family: Verdana;
+}
+.GridStyle
+{
+	border-right: #7799bb 1px solid;
+	border-top: #7799bb 1px solid;
+	border-left: #7799bb 1px solid;
+	border-bottom: #7799bb 1px solid;
+	background-color: #ffffff;
+}
+.GridItemStyle
+{
+	font-size: xx-small;
+	color: black;
+	font-family: Verdana;
+	background-color: white;
+}
+.GridPagerStyle
+{
+	font-size: xx-small;
+	color: black;
+	font-family: Verdana;
+	text-align: right;
+}
+.GridHeaderStyle
+{
+	font-weight: bold;
+	font-size: xx-small;
+	vertical-align: middle;
+	color: black;
+	font-family: Verdana;
+	background-color: #ccd3d7;
+	text-align: center;
+}
+.GridAlternateItemStyle
+{
+	font-size: xx-small;
+	color: black;
+	font-family: Verdana;
+	background-color: #E8F0F5;
+}
+.rightcell
+{
+	font-size: xx-small;
+	border-left: gray 1px solid;
+	border-bottom: gray 1px solid;
+	font-family: Verdana;
+}
+.leftcell
+{
+	text-align:right;
+	font-size: xx-small;
+	font-family: Verdana;
+	border-bottom: gray 1px solid;
+}
+.tabs
+{
+	border-top: #4975b2 1px solid;
+	border-left: #4975b2 1px solid;
+	border-bottom: #4975b2 1px solid;
+	background-color: #ffffff;
+}
+.ChartColors
+{
+	border-right: #dae1e8 1px solid;
+	border-top: #dae1e8 1px solid;
+	border-left: #dae1e8 1px solid;
+	color: #444c60;
+	border-bottom: #dae1e8 1px solid;
+	background-color: #f5faf9;
+}
+
+/* news title links ORDER OF CLASS IS EMPO */
+.NewsTitleLink:link
+{
+	font-weight: bold;
+	font-size: 9pt;
+	color: black;
+	font-family: Verdana;
+	text-decoration: none;
+}
+
+.NewsTitleLink:visited
+{
+	font-weight: bold;
+	font-size: 9pt;
+	color: black;
+	font-family: Verdana;
+	text-decoration: none;
+}
+.NewsTitleLink:hover
+{
+	font-weight: bold;
+	font-size: 9pt;
+	color: #b22222;
+	font-family: Verdana;
+	text-decoration: underline;
+}
+/* end news title link classes*/
+/* news title links ORDER OF CLASS IS EMPO */
+a.gNewsTitleLink:link
+{
+	font-weight: bold;
+	font-size: 9pt;
+	color: black;
+	font-family: Verdana;
+	text-decoration: none;
+}
+
+a.gNewsTitleLink:visited
+{
+	font-weight: bold;
+	font-size: 9pt;
+	color: black;
+	font-family: Verdana;
+	text-decoration: none;
+}
+a.gNewsTitleLink:hover
+{
+	font-weight: bold;
+	font-size: 9pt;
+	color: #b22222;
+	font-family: Verdana;
+	text-decoration: underline;
+}
+
+.simple2
+{
+	font-weight: bold;
+	font-size: 10px;
+	color: #222222;
+	font-family: Verdana;
+	background-color: #efefef;
+	border: 0;
+	width:50;
+	align:center;
+}
+.simple3
+{
+	font-weight: bold;
+	font-size: xx-small;
+	color: black;
+	font-family: Verdana;
+	background-color: #0572a1;
+	cursor: pointer;
+}
+.simple4
+{
+	font-size: 10px;
+	color: #222222;
+	font-family: Verdana;
+	background-color: #efefef;
+	border: 0;
+	width:300;
+}
+.head3
+{
+	font-weight: bold;
+	font-size: 11px;
+	color: #111111;
+	font-family: Verdana;
+}
+.head4
+{
+	font-weight: bold;
+	font-size: 11px;
+	color: #111111;
+	font-family: Verdana;
+}
+.head5
+{
+	font-size: 14px;
+	color: #111111;
+	font-family: Calibri, Verdana;
+}
+
+.simple8
+{
+	font-weight: bold;
+	font-size: 10px;
+	color: #222222;
+	font-family: Verdana;
+	border: 0;
+	width:160;
+	align:center;
+	rows:3;
+	cols:25;
+}
+.simple9
+{
+	font-weight: bold;
+	font-size: 10px;
+	color: #222222;
+	font-family: Verdana;
+	border: 0;
+	width:300;
+	align:center;
+}
+.simple22
+{
+	font-weight: bold;
+	font-size: 10px;
+	color: #222222;
+	font-family: Verdana;
+	background-color: pink;
+	border: 0;
+	width:50;
+	align:center;
+}
+
+/* end news title link classes*/
